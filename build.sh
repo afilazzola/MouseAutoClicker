@@ -1,3 +1,3 @@
 ## Build script
 
-pyinstaller --onefile autoclick.py
+pyinstaller --onefile main.py
